@@ -311,4 +311,43 @@ This project makes extensive use of **advanced SQL concepts**, including:
 
 ---
 
+## 💡 Key Learnings
 
+- How to transform raw sales data into actionable business insights.
+- Practical use of **dimensional modeling** (fact/dimension table joins).
+- Interpreting trends and anomalies in financial KPIs.
+- The importance of structuring queries for readability and reusability.
+
+---
+
+## 📂 How to Use
+
+1. Open the project SQL scripts in **SQL Server Management Studio (SSMS)**.
+2. Make sure the `AdventureWorksDW2022` database is attached.
+3. Run each query in sequence or adapt them to explore further insights.
+4. Feel free to modify or extend queries for deeper analysis (e.g., subcategory trends, customer churn, etc.)
+
+---
+
+## 🚀 Next Steps (Ideas to Extend)
+
+- Monthly trend analysis for top products
+- Regional performance heatmaps using Power BI
+- Customer retention and churn analysis
+- Outlier detection for abnormal sales or pricing
+
+---
+
+## 📎 Dataset Reference
+
+> **AdventureWorksDW2022** is a Microsoft sample data warehouse schema used for data analysis, BI testing, and reporting scenarios.  
+> Download link: https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure
+
+---
+
+## 👨‍💻 Author
+
+Ellias Sithole  
+📍 Johannesburg, South Africa  
+🎓 Background: Mathematics & Data Analysis  
+📫 [GitHub Portfolio](https://babakaelijah.github.io/portoflio-website)
